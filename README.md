@@ -15,3 +15,5 @@ socket.io를 이용한 간단한 웹 채팅을 구현해보았습니다.
 [input value 속성](http://tcpschool.com/html-tag-attrs/input-value) ⇒ input 요소의 초깃값(value)를 명시<br />
 </details>
 
+
+[정리](https://sudsy-action-667.notion.site/socket-io-with-create-react-app-ff375bfa9ad84af3a43760fe03edad94)
